@@ -20,7 +20,7 @@ The skill is self-contained and requires no other skills. Repository access and 
 
 ## Attribution
 
-Extracted from [Clean Workflow](https://github.com/wgtechlabs/clean-workflow), adapted from `focused-code-review`. The skill includes its source lineage and the Codelynx article that inspired the workflow.
+Extracted from [Clean Workflow](https://github.com/wgtechlabs/clean-workflow). The skill includes its source lineage and the Codelynx article that inspired the workflow.
 
 ## Contributing
 
