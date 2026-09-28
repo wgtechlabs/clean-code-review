@@ -1,0 +1,32 @@
+{
+  "name": "clean-code-review",
+  "version": "0.1.0",
+  "description": "Self-contained code review guidance with evidence-backed findings.",
+  "author": {
+    "name": "WG Technology Labs",
+    "url": "https://github.com/wgtechlabs"
+  },
+  "homepage": "https://github.com/wgtechlabs/clean-code-review",
+  "repository": "https://github.com/wgtechlabs/clean-code-review",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "verification",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Clean Code Review",
+    "shortDescription": "Review code with evidence-backed findings",
+    "longDescription": "Review correctness, security, maintainability, simplicity, and relevant UI behavior with evidence-backed findings.",
+    "developerName": "WG Technology Labs",
+    "category": "Productivity",
+    "capabilities": [
+      "Instructions"
+    ],
+    "websiteURL": "https://github.com/wgtechlabs/clean-code-review",
+    "defaultPrompt": [
+      "Use Clean Code Review for this task."
+    ]
+  }
+}

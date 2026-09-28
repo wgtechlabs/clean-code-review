@@ -1,0 +1,20 @@
+{
+  "name": "clean-code-review",
+  "interface": {
+    "displayName": "Clean Code Review"
+  },
+  "plugins": [
+    {
+      "name": "clean-code-review",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
