@@ -6,7 +6,7 @@ A standalone Codex plugin containing the `clean-code-review` skill for concise, 
 
 | What you want | Install |
 | --- | --- |
-| Implementation, fixes, and refactoring only | [Clean Coding](https://github.com/wgtechlabs/clean-coding) (`clean-development`) |
+| Implementation, fixes, and refactoring only | [Clean Coding](https://github.com/wgtechlabs/clean-coding) (`clean-coding`) |
 | Code and pull-request reviews only | [Clean Code Review](https://github.com/wgtechlabs/clean-code-review) (`clean-code-review`) |
 | Both skills plus task routing and Git/delivery conventions | [Clean Workflow](https://github.com/wgtechlabs/clean-workflow) |
 
