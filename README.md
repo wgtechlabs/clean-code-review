@@ -34,6 +34,8 @@ Review correctness, security, maintainability, unnecessary complexity, and relev
 
 The skill is self-contained and requires no other skills. Repository access and task-specific verification tools are still needed. Publishing reviews requires authorization; permission to comment alone does not authorize approval. Read-only requests are respected. Installing this skill does not authorize merging, deploying, or resolving other reviewers' threads.
 
+Before adding findings, validate existing reviews and threads against the current code. Reuse existing findings rather than duplicate them, and publish new evidence-backed findings when reviewing a PR unless the user requests otherwise. Implementation and review-thread resolution belong to Clean Coding.
+
 ## Attribution
 
 Extracted from [Clean Workflow](https://github.com/wgtechlabs/clean-workflow). The skill includes its source lineage and the Codelynx article that inspired the workflow.
